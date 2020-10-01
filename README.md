@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is oat.
+Working at Artisan Digital Asia.
+
 <!--
 **parameschotana-dev/parameschotana-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
